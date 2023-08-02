@@ -1,0 +1,12 @@
+This is a mod that adds a custom menu, which "disables" the day-night cycle by forcing it to remain night at all times.
+
+This mod was made to hopefully help with player accessibility, by stopping the background from changes colours while in most default menus.
+
+If you have any questions or queries please reach out to me @mangochicken_ on discord.
+
+
+Now for some keywords so people can search for some extra words and find this (at least hopefully)
+ - Static
+ - Black
+ - Menu
+ - Background
